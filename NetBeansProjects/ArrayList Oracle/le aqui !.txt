@@ -1,0 +1,4 @@
+oi Ramon, queria só te dizer que no exericicio 2, está pedindo para:
+−Exiba o conteúdo da ArrayList utilizando um Iterator
+porém, não consegui utilizar o Iterator para fazer atividade, sendo assim usei um for mesmo
+obrigado!
